@@ -4,3 +4,4 @@ LinkedList.exe.stackdump
 LinkedList.layout
 bin/
 obj/
+.gitignore
